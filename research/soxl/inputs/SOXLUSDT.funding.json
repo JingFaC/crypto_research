@@ -1,0 +1,2459 @@
+[
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784217600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "145.60714897",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784246400001,
+    "fundingRate": "0.00036066",
+    "markPrice": "138.77440842",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784275200001,
+    "fundingRate": "0.00063872",
+    "markPrice": "125.04068404",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784304000001,
+    "fundingRate": "0.00011110",
+    "markPrice": "139.24000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784332800001,
+    "fundingRate": "0.00014757",
+    "markPrice": "134.09000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784361600001,
+    "fundingRate": "-0.00011218",
+    "markPrice": "133.70000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784390400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "132.81000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784419200001,
+    "fundingRate": "0.00080789",
+    "markPrice": "133.50000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784448000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "134.91000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784476800001,
+    "fundingRate": "-0.00096967",
+    "markPrice": "131.18000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784505600002,
+    "fundingRate": "0.00278615",
+    "markPrice": "134.98190495",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784534400001,
+    "fundingRate": "0.00002720",
+    "markPrice": "138.51041218",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784563200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "144.52000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784592000001,
+    "fundingRate": "0.00007940",
+    "markPrice": "137.01618040",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784620800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "150.73928983",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784649600000,
+    "fundingRate": "0.00000000",
+    "markPrice": "156.14000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784678400000,
+    "fundingRate": "0.00000000",
+    "markPrice": "159.62486891",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784707200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "147.54822008",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784736000000,
+    "fundingRate": "-0.00003349",
+    "markPrice": "164.26972642",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784764800000,
+    "fundingRate": "0.00000000",
+    "markPrice": "163.26452209",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784793600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "157.31842841",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784822400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "155.11252544",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784851200000,
+    "fundingRate": "0.00000000",
+    "markPrice": "159.39599479",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784880000000,
+    "fundingRate": "0.00000000",
+    "markPrice": "155.14000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784908800000,
+    "fundingRate": "0.00000000",
+    "markPrice": "146.57100727",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784937600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "136.65306499",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784966400000,
+    "fundingRate": "0.00004497",
+    "markPrice": "138.62000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1784995200000,
+    "fundingRate": "0.00000000",
+    "markPrice": "138.41978632",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785024000001,
+    "fundingRate": "0.00000448",
+    "markPrice": "140.31366507",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785052800001,
+    "fundingRate": "0.00046070",
+    "markPrice": "143.44000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785081600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "143.15000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785110400001,
+    "fundingRate": "0.00176446",
+    "markPrice": "148.29191571",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785139200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "147.46474908",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785168000000,
+    "fundingRate": "0.00000000",
+    "markPrice": "119.95000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785196800000,
+    "fundingRate": "0.00000000",
+    "markPrice": "125.33685248",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785225600000,
+    "fundingRate": "0.00000000",
+    "markPrice": "115.78000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785254400000,
+    "fundingRate": "0.00020080",
+    "markPrice": "113.37202678",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785283200001,
+    "fundingRate": "0.00052203",
+    "markPrice": "111.78806844",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785312000001,
+    "fundingRate": "0.00035625",
+    "markPrice": "104.33729618",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785340800001,
+    "fundingRate": "0.00041634",
+    "markPrice": "95.92000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785369600000,
+    "fundingRate": "0.00015352",
+    "markPrice": "92.39000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785398400001,
+    "fundingRate": "0.00016160",
+    "markPrice": "91.45820222",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785427200000,
+    "fundingRate": "0.00000000",
+    "markPrice": "113.65905925",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785456000000,
+    "fundingRate": "-0.00147416",
+    "markPrice": "124.62895617",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785484800001,
+    "fundingRate": "-0.00073061",
+    "markPrice": "126.86290664",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785513600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "117.43000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785542400001,
+    "fundingRate": "0.00055350",
+    "markPrice": "113.01167153",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785571200002,
+    "fundingRate": "0.00000000",
+    "markPrice": "113.49495499",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785600000002,
+    "fundingRate": "0.00000000",
+    "markPrice": "112.75000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785628800002,
+    "fundingRate": "0.00000000",
+    "markPrice": "112.86063020",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785657600002,
+    "fundingRate": "0.00218484",
+    "markPrice": "120.85580736",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785686400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "122.47000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785715200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "123.64000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785744000002,
+    "fundingRate": "0.00000000",
+    "markPrice": "117.43185186",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785772800001,
+    "fundingRate": "0.00011351",
+    "markPrice": "113.79000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785801600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "120.19886875",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785830400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "122.54544955",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785859200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "138.12000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785888000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "136.16232631",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785916800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "139.73299295",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785945600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "133.26090412",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1785974400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "131.80331094",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786003200002,
+    "fundingRate": "0.00000000",
+    "markPrice": "128.75978821",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786032000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "135.89000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786060800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "135.98000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786089600002,
+    "fundingRate": "0.00000000",
+    "markPrice": "136.32000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786118400002,
+    "fundingRate": "0.00000000",
+    "markPrice": "139.56000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786147200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "141.34000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786176000001,
+    "fundingRate": "-0.00030851",
+    "markPrice": "139.36520141",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786204800001,
+    "fundingRate": "0.00046690",
+    "markPrice": "141.92534028",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786233600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "143.23087764",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786262400001,
+    "fundingRate": "0.00010709",
+    "markPrice": "143.48000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786291200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "142.00411426",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786320000002,
+    "fundingRate": "-0.00080959",
+    "markPrice": "139.42880637",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786348800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "145.78379668",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786377600002,
+    "fundingRate": "0.00000000",
+    "markPrice": "135.93692731",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786406400001,
+    "fundingRate": "0.00004059",
+    "markPrice": "130.16000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786435200001,
+    "fundingRate": "0.00001563",
+    "markPrice": "132.93000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786464000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "132.79958628",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786492800001,
+    "fundingRate": "0.00040159",
+    "markPrice": "134.30911911",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786521600002,
+    "fundingRate": "0.00000000",
+    "markPrice": "138.31232472",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786550400002,
+    "fundingRate": "0.00000000",
+    "markPrice": "144.46273121",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786579200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "143.39430327",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786608000002,
+    "fundingRate": "0.00000000",
+    "markPrice": "143.62479272",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786636800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "149.75509384",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786665600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "146.59277671",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786694400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "144.72298670",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786723200002,
+    "fundingRate": "0.00000000",
+    "markPrice": "140.56280284",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786752000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "144.73000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786780800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "144.28621473",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786809600002,
+    "fundingRate": "0.00000000",
+    "markPrice": "144.18000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786838400002,
+    "fundingRate": "0.00000000",
+    "markPrice": "144.41000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786867200002,
+    "fundingRate": "0.00000000",
+    "markPrice": "145.08000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786896000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "145.14000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786924800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "144.91000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786953600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "150.82188346",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1786982400001,
+    "fundingRate": "-0.00017987",
+    "markPrice": "156.03000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787011200002,
+    "fundingRate": "0.00000000",
+    "markPrice": "152.75982518",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787040000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "143.29130108",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787068800001,
+    "fundingRate": "0.00007142",
+    "markPrice": "127.37181595",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787097600001,
+    "fundingRate": "-0.00003204",
+    "markPrice": "126.10342113",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787126400001,
+    "fundingRate": "0.00027770",
+    "markPrice": "130.04397027",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787155200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "121.99992691",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787184000001,
+    "fundingRate": "0.00049094",
+    "markPrice": "124.01000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787212800002,
+    "fundingRate": "0.00010122",
+    "markPrice": "125.38000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787241600001,
+    "fundingRate": "0.00012009",
+    "markPrice": "121.33230679",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787270400002,
+    "fundingRate": "0.00000000",
+    "markPrice": "121.40673925",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787299200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "126.41497326",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787328000002,
+    "fundingRate": "0.00015619",
+    "markPrice": "119.61006244",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787356800001,
+    "fundingRate": "0.00006045",
+    "markPrice": "119.97826224",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787385600002,
+    "fundingRate": "0.00000000",
+    "markPrice": "119.88000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787414400002,
+    "fundingRate": "-0.00045376",
+    "markPrice": "118.23690042",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787443200002,
+    "fundingRate": "0.00000000",
+    "markPrice": "118.00607682",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787472000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "118.84675839",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787500800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "119.54000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787529600002,
+    "fundingRate": "0.00000000",
+    "markPrice": "120.13824780",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787558400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "113.20884823",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787587200002,
+    "fundingRate": "0.00018572",
+    "markPrice": "110.81187361",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787616000001,
+    "fundingRate": "0.00014094",
+    "markPrice": "110.42585677",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787644800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "115.80000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787673600001,
+    "fundingRate": "0.00001155",
+    "markPrice": "115.67000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787702400002,
+    "fundingRate": "0.00000000",
+    "markPrice": "115.78423919",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787731200002,
+    "fundingRate": "0.00027236",
+    "markPrice": "115.31601632",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787760000002,
+    "fundingRate": "0.00001779",
+    "markPrice": "115.42710668",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787788800001,
+    "fundingRate": "-0.00018854",
+    "markPrice": "125.00731861",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787817600002,
+    "fundingRate": "-0.00008516",
+    "markPrice": "124.76114558",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787846400002,
+    "fundingRate": "0.00000000",
+    "markPrice": "121.39067384",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787875200002,
+    "fundingRate": "0.00000000",
+    "markPrice": "119.88397608",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787904000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "119.12884015",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787932800002,
+    "fundingRate": "0.00014906",
+    "markPrice": "112.22753521",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787961600002,
+    "fundingRate": "0.00077884",
+    "markPrice": "111.34647695",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1787990400002,
+    "fundingRate": "0.00000000",
+    "markPrice": "112.09000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788019200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "111.90000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788048000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "112.43000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788076800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "112.63000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788105600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "112.72000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788134400001,
+    "fundingRate": "-0.00152458",
+    "markPrice": "109.43712249",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788163200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "114.40240349",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788192000002,
+    "fundingRate": "0.00035088",
+    "markPrice": "110.96116193",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788220800001,
+    "fundingRate": "0.00032832",
+    "markPrice": "113.06000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788249600002,
+    "fundingRate": "0.00004170",
+    "markPrice": "112.34000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788278400001,
+    "fundingRate": "0.00028148",
+    "markPrice": "107.70000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788307200001,
+    "fundingRate": "0.00041248",
+    "markPrice": "105.01000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788336000001,
+    "fundingRate": "0.00044602",
+    "markPrice": "103.88310720",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788364800001,
+    "fundingRate": "0.00002699",
+    "markPrice": "107.64000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788393600001,
+    "fundingRate": "0.00007002",
+    "markPrice": "106.54000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788422400001,
+    "fundingRate": "0.00016403",
+    "markPrice": "105.91000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788451200001,
+    "fundingRate": "0.00024812",
+    "markPrice": "105.50324402",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788480000001,
+    "fundingRate": "0.00005254",
+    "markPrice": "106.54000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788508800002,
+    "fundingRate": "0.00000000",
+    "markPrice": "111.41650183",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788537600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "116.10000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788566400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "116.57530357",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788595200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "116.13000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788624000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "116.20458263",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788652800001,
+    "fundingRate": "0.00047669",
+    "markPrice": "117.94000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788681600001,
+    "fundingRate": "0.00046583",
+    "markPrice": "119.34843273",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788710400002,
+    "fundingRate": "0.00024233",
+    "markPrice": "121.43000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788739200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "123.66000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788768000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "125.45000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788796800001,
+    "fundingRate": "-0.00005579",
+    "markPrice": "125.76000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788825600001,
+    "fundingRate": "-0.00019310",
+    "markPrice": "125.15067074",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788854400001,
+    "fundingRate": "0.00023691",
+    "markPrice": "122.31018934",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788883200002,
+    "fundingRate": "0.00000000",
+    "markPrice": "126.82596829",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788912000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "123.08000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788940800002,
+    "fundingRate": "0.00000000",
+    "markPrice": "124.93000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788969600001,
+    "fundingRate": "0.00003333",
+    "markPrice": "125.77905906",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1788998400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "125.65000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789027200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "124.00900171",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789056000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "118.56565279",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789084800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "114.14827750",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789113600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "116.97897656",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789142400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "123.50428988",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789171200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "122.30000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789200000002,
+    "fundingRate": "-0.00000611",
+    "markPrice": "122.48672755",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789228800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "122.66000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789257600001,
+    "fundingRate": "-0.00004821",
+    "markPrice": "121.43796917",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789286400001,
+    "fundingRate": "-0.00062447",
+    "markPrice": "119.94254313",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789315200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "116.94144092",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789344000001,
+    "fundingRate": "-0.00111269",
+    "markPrice": "114.74375198",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789372800001,
+    "fundingRate": "0.00050575",
+    "markPrice": "108.68000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789401600002,
+    "fundingRate": "0.00036425",
+    "markPrice": "103.25318208",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789430400001,
+    "fundingRate": "0.00030404",
+    "markPrice": "102.89947345",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789459200001,
+    "fundingRate": "0.00026735",
+    "markPrice": "101.22895521",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789488000000,
+    "fundingRate": "0.00002445",
+    "markPrice": "101.63517390",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789516800001,
+    "fundingRate": "0.00001015",
+    "markPrice": "102.43457515",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789545600001,
+    "fundingRate": "0.00004015",
+    "markPrice": "106.58316918",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789574400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "108.25457251",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789603200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "107.69000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789632000000,
+    "fundingRate": "0.00000000",
+    "markPrice": "107.93000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789660800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "114.40596203",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789689600001,
+    "fundingRate": "0.00017723",
+    "markPrice": "114.47000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789718400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "118.84280348",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789747200001,
+    "fundingRate": "0.00008467",
+    "markPrice": "117.84960403",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789776000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "123.17000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789804800001,
+    "fundingRate": "-0.00016473",
+    "markPrice": "120.73000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789833600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "120.10260358",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789862400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "120.68126845",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789891200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "120.68596424",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789920000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "120.61000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789948800001,
+    "fundingRate": "0.00230077",
+    "markPrice": "124.70918329",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1789977600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "129.76064983",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790006400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "138.91698185",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790035200001,
+    "fundingRate": "0.00004591",
+    "markPrice": "144.79000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790064000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "139.10604255",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790092800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "147.75000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790121600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "152.62880899",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790150400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "149.82940571",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790179200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "143.35771804",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790208000002,
+    "fundingRate": "0.00000000",
+    "markPrice": "145.71123318",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790236800002,
+    "fundingRate": "0.00000000",
+    "markPrice": "141.60000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790265600002,
+    "fundingRate": "0.00013782",
+    "markPrice": "139.80000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790294400002,
+    "fundingRate": "0.00000000",
+    "markPrice": "145.25494465",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790323200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "151.40000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790352000002,
+    "fundingRate": "0.00000000",
+    "markPrice": "151.02000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790380800002,
+    "fundingRate": "0.00000000",
+    "markPrice": "151.79514875",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790409600002,
+    "fundingRate": "0.00000000",
+    "markPrice": "151.36046443",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790438400002,
+    "fundingRate": "0.00000000",
+    "markPrice": "150.39820776",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790467200001,
+    "fundingRate": "0.00007336",
+    "markPrice": "151.18000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790496000001,
+    "fundingRate": "0.00055438",
+    "markPrice": "153.32000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790524800001,
+    "fundingRate": "-0.00010554",
+    "markPrice": "152.81000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790553600001,
+    "fundingRate": "-0.00178672",
+    "markPrice": "150.67000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790582400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "141.43000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790611200002,
+    "fundingRate": "0.00000000",
+    "markPrice": "139.30000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790640000002,
+    "fundingRate": "-0.00009945",
+    "markPrice": "142.61000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790668800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "143.93000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790697600002,
+    "fundingRate": "-0.00019637",
+    "markPrice": "149.36000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790726400002,
+    "fundingRate": "-0.00011873",
+    "markPrice": "148.97226575",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790755200002,
+    "fundingRate": "-0.00002620",
+    "markPrice": "147.89010846",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790784000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "146.42567555",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790812800002,
+    "fundingRate": "-0.00013728",
+    "markPrice": "149.13083199",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790841600002,
+    "fundingRate": "0.00000000",
+    "markPrice": "155.40000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790870400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "149.23746984",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790899200001,
+    "fundingRate": "-0.00009405",
+    "markPrice": "154.75401259",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790928000001,
+    "fundingRate": "-0.00019934",
+    "markPrice": "158.95000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790956800001,
+    "fundingRate": "-0.00021512",
+    "markPrice": "167.76000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1790985600002,
+    "fundingRate": "0.00000000",
+    "markPrice": "164.01466344",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791014400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "163.20000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791043200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "163.10000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791072000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "164.25368092",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791100800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "163.75898413",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791129600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "164.19714897",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791158400002,
+    "fundingRate": "0.00084566",
+    "markPrice": "166.87467797",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791187200002,
+    "fundingRate": "-0.00011888",
+    "markPrice": "165.78000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791216000002,
+    "fundingRate": "0.00000000",
+    "markPrice": "162.49626055",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791244800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "165.36132851",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791273600001,
+    "fundingRate": "-0.00011586",
+    "markPrice": "164.44000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791302400001,
+    "fundingRate": "-0.00018624",
+    "markPrice": "167.38000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791331200001,
+    "fundingRate": "-0.00010355",
+    "markPrice": "164.53597540",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791360000001,
+    "fundingRate": "-0.00019581",
+    "markPrice": "162.46791604",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791388800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "155.97000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791417600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "160.19000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791446400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "153.72000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791475200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "149.79468772",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791504000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "142.23262797",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791532800001,
+    "fundingRate": "-0.00013398",
+    "markPrice": "150.34953923",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791561600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "138.57807609",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791590400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "139.58386758",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791619200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "140.10000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791648000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "140.76087662",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791676800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "140.39021296",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791705600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "139.15000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791734400001,
+    "fundingRate": "0.00021018",
+    "markPrice": "141.50000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791763200001,
+    "fundingRate": "0.00002947",
+    "markPrice": "142.22134027",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791792000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "139.15855823",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791820800001,
+    "fundingRate": "0.00010891",
+    "markPrice": "130.42846860",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791849600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "125.52173136",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791878400001,
+    "fundingRate": "0.00044229",
+    "markPrice": "121.82529368",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791907200001,
+    "fundingRate": "0.00007011",
+    "markPrice": "121.91294327",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791936000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "127.80000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791964800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "126.60000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1791993600001,
+    "fundingRate": "0.00015414",
+    "markPrice": "114.52000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792022400001,
+    "fundingRate": "0.00013420",
+    "markPrice": "103.77000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792051200001,
+    "fundingRate": "0.00038232",
+    "markPrice": "103.66000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792080000001,
+    "fundingRate": "0.00042486",
+    "markPrice": "104.17000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792108800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "104.63115689",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792137600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "105.51723593",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792166400001,
+    "fundingRate": "0.00034147",
+    "markPrice": "100.12000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792195200001,
+    "fundingRate": "0.00082691",
+    "markPrice": "94.59030862",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792224000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "94.46000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792252800001,
+    "fundingRate": "-0.00010731",
+    "markPrice": "93.76069804",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792281600001,
+    "fundingRate": "-0.00088114",
+    "markPrice": "92.42144988",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792310400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "92.12000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792339200001,
+    "fundingRate": "-0.00142759",
+    "markPrice": "90.47000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792368000002,
+    "fundingRate": "0.00455005",
+    "markPrice": "94.65164136",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792396800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "101.14000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792425600001,
+    "fundingRate": "0.00006818",
+    "markPrice": "104.01771606",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792454400001,
+    "fundingRate": "0.00022826",
+    "markPrice": "99.25519653",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792483200001,
+    "fundingRate": "0.00025850",
+    "markPrice": "94.88905576",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792512000001,
+    "fundingRate": "0.00010280",
+    "markPrice": "101.08333060",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792540800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "104.89668869",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792569600001,
+    "fundingRate": "0.00051483",
+    "markPrice": "104.61275219",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792598400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "104.07868683",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792627200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "98.66048723",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792656000002,
+    "fundingRate": "0.00040587",
+    "markPrice": "92.80000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792684800001,
+    "fundingRate": "0.00043721",
+    "markPrice": "86.08000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792713600001,
+    "fundingRate": "0.00035828",
+    "markPrice": "80.74000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792742400001,
+    "fundingRate": "0.00039022",
+    "markPrice": "85.87000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792771200001,
+    "fundingRate": "0.00032152",
+    "markPrice": "86.40000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792800000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "83.36164615",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792828800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "83.22000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792857600001,
+    "fundingRate": "-0.00037492",
+    "markPrice": "83.05021132",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792886400001,
+    "fundingRate": "0.00043653",
+    "markPrice": "84.72000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792915200001,
+    "fundingRate": "-0.00015262",
+    "markPrice": "84.37000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792944000001,
+    "fundingRate": "0.00041168",
+    "markPrice": "85.08000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1792972800002,
+    "fundingRate": "0.00000000",
+    "markPrice": "85.27000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793001600001,
+    "fundingRate": "0.00018018",
+    "markPrice": "82.49000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793030400002,
+    "fundingRate": "0.00000000",
+    "markPrice": "90.97080585",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793059200002,
+    "fundingRate": "0.00000000",
+    "markPrice": "92.93000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793088000001,
+    "fundingRate": "0.00030395",
+    "markPrice": "88.32601088",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793116800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "99.91580947",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793145600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "100.93003806",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793174400001,
+    "fundingRate": "-0.00009841",
+    "markPrice": "104.51000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793203200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "104.35396764",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793232000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "100.99211391",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793260800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "98.23000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793289600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "105.30196312",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793318400001,
+    "fundingRate": "0.00020129",
+    "markPrice": "88.60257776",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793347200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "85.93000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793376000001,
+    "fundingRate": "0.00022704",
+    "markPrice": "77.73000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793404800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "78.14362212",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793433600001,
+    "fundingRate": "0.00000000",
+    "markPrice": "77.33000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793462400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "77.40874478",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793491200001,
+    "fundingRate": "0.00000000",
+    "markPrice": "77.36799953",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793520000001,
+    "fundingRate": "0.00019009",
+    "markPrice": "78.46000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793548800001,
+    "fundingRate": "0.00000000",
+    "markPrice": "78.65599975",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793577600001,
+    "fundingRate": "0.00105405",
+    "markPrice": "79.58000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793606400001,
+    "fundingRate": "0.00000000",
+    "markPrice": "80.98542727",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793635200001,
+    "fundingRate": "0.00005075",
+    "markPrice": "77.73646781",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793664000001,
+    "fundingRate": "0.00044163",
+    "markPrice": "70.16586216",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793692800001,
+    "fundingRate": "0.00031662",
+    "markPrice": "70.13000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793721600001,
+    "fundingRate": "0.00014803",
+    "markPrice": "75.87967507",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793750400001,
+    "fundingRate": "0.00014075",
+    "markPrice": "75.57901973",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793779200001,
+    "fundingRate": "0.00013793",
+    "markPrice": "75.34308423",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793808000001,
+    "fundingRate": "0.00078402",
+    "markPrice": "64.65180165",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793836800001,
+    "fundingRate": "0.00058448",
+    "markPrice": "65.43563601",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793865600001,
+    "fundingRate": "0.00142924",
+    "markPrice": "61.31820759",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793894400001,
+    "fundingRate": "0.00096026",
+    "markPrice": "43.96824079",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793923200001,
+    "fundingRate": "0.00096315",
+    "markPrice": "40.74000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793952000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "45.43000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1793980800001,
+    "fundingRate": "0.00030165",
+    "markPrice": "45.78056405",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1794009600001,
+    "fundingRate": "0.00026045",
+    "markPrice": "45.93000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1794038400001,
+    "fundingRate": "-0.00031159",
+    "markPrice": "45.55000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1794067200001,
+    "fundingRate": "-0.00024969",
+    "markPrice": "45.55192412",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1794096000001,
+    "fundingRate": "0.00000000",
+    "markPrice": "45.98614147",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1794124800001,
+    "fundingRate": "0.00010077",
+    "markPrice": "46.12000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1794153600001,
+    "fundingRate": "-0.00075044",
+    "markPrice": "45.82000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1794182400001,
+    "fundingRate": "-0.00341071",
+    "markPrice": "44.07886203",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1794211200001,
+    "fundingRate": "0.00039058",
+    "markPrice": "41.90520936",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1794240000001,
+    "fundingRate": "0.00018479",
+    "markPrice": "56.03423553",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1794268800001,
+    "fundingRate": "0.00005277",
+    "markPrice": "57.34000000",
+    "rateType": "Regular"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "fundingTime": 1794297600001,
+    "fundingRate": "0.00002165",
+    "markPrice": "55.10720061",
+    "rateType": "Regular"
+  }
+]

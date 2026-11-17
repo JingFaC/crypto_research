@@ -1,1 +1,6 @@
 /数据/
+/.cache/
+/.venv/
+__pycache__/
+*.py[cod]
+*.exe
